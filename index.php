@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>KKN UNIGAL 2025</title>
+  <title>KKN UNIGAL GEGEMPALAN 2025</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
@@ -55,12 +55,12 @@
 
           <li class="dropdown"><a href="#"><span>Program Kerja</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-              <li><a href="Proker1">Program Kerja Utama</a></li>
-              <li><a href="#Proker2">Program Kerja Tambahan</a></li>
-              <li><a href="#Proker3">Program Kerja Bantuan</a></li>
+              <li><a href="#program-kerja-utama">Program Kerja Utama</a></li>
+              <li><a href="#program-kerja-tambahan">Program Kerja Tambahan</a></li>
+              <li><a href="#rogram-kerja-bantuan">Program Kerja Bantuan</a></li>
 
             </ul>
-          <li><a href="#portfolio">Galeri</a></li>
+          <li><a href="#galeri">Galeri</a></li>
           </li>
           <li><a href="#team">Team</a></li>
 
@@ -221,8 +221,8 @@
 
     </section><!-- /About Section -->
 
-    <!-- Portfolio Section -->
-    <section id="portfolio" class="portfolio section">
+    <!-- galeri Section -->
+    <section id="galeri" class="portfolio section">
       <div class="container section-title" data-aos="fade-up">
         <h2>Galeri</h2>
         <p>Yang Telah Kami Kerjakan</p>
@@ -405,7 +405,7 @@
 
   <footer id="footer" class="footer dark-background">
     <div class="container">
-      <h3 class="sitename">KKN UNIGAL 2025 Desa Gegempalan</h3>
+      <h3 class="sitename">KKN UNIGAL GEGEMPALAN 2025</h3>
       <p>"Peningkatan Kapasitas Masyarakat Melalui Pemanfaatan Sumber Daya Alam dan Kearifan Lokal"</p>
       <div class="social-links d-flex justify-content-center">
         <a href="https://www.tiktok.com/@kknunigalgegempalan25"><i class="bi bi-tiktok"></i></a>
