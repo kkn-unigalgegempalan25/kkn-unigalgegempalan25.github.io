@@ -55,7 +55,7 @@
 
           <li class="dropdown"><a href="#"><span>Program Kerja</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-              <li><a href="#Proker1">Program Kerja Utama</a></li>
+              <li><a href="Proker1">Program Kerja Utama</a></li>
               <li><a href="#Proker2">Program Kerja Tambahan</a></li>
               <li><a href="#Proker3">Program Kerja Bantuan</a></li>
 
