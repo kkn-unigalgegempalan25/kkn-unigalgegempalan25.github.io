@@ -1,0 +1,211 @@
+[ 
+   { 
+       "name": "AHMAD NIAM ALJUBER", 
+       "role": "ACARA", 
+       "file": "assets/img/team/AHMAD NIAM ALJUBER - ACARA.png", 
+       "order": 7 
+   } 
+, 
+   { 
+       "name": "ALYFIA ASTRI M", 
+       "role": "SEKRETARIS II", 
+       "file": "assets/img/team/ALYFIA ASTRI M - SEKRETARIS II.png", 
+       "order": 4 
+   } 
+, 
+   { 
+       "name": "ANISA FUJAYANTI", 
+       "role": "ACARA", 
+       "file": "assets/img/team/ANISA FUJAYANTI - ACARA.png", 
+       "order": 7 
+   } 
+, 
+   { 
+       "name": "ASEP ISA SAEPUL AKBAR", 
+       "role": "PDD", 
+       "file": "assets/img/team/ASEP ISA SAEPUL AKBAR - PDD.png", 
+       "order": 9 
+   } 
+, 
+   { 
+       "name": "BIMA PUTRA YANNA", 
+       "role": "PDD", 
+       "file": "assets/img/team/BIMA PUTRA YANNA - PDD.png", 
+       "order": 9 
+   } 
+, 
+   { 
+       "name": "DILLA FASYA SUTENDI PUTRI", 
+       "role": "BENDAHARA II", 
+       "file": "assets/img/team/DILLA FASYA SUTENDI PUTRI - BENDAHARA II.png", 
+       "order": 6 
+   } 
+, 
+   { 
+       "name": "FADLY MAULANA RASYID", 
+       "role": "LOGISTIK", 
+       "file": "assets/img/team/FADLY MAULANA RASYID - LOGISTIK.png", 
+       "order": 10 
+   } 
+, 
+   { 
+       "name": "FARIHATUL MUSAFAAH", 
+       "role": "PDD", 
+       "file": "assets/img/team/FARIHATUL MUSAFAAH - PDD.png", 
+       "order": 9 
+   } 
+, 
+   { 
+       "name": "GALIH RIZKI FIRDAUS", 
+       "role": "LOGISTIK", 
+       "file": "assets/img/team/GALIH RIZKI FIRDAUS - LOGISTIK.png", 
+       "order": 10 
+   } 
+, 
+   { 
+       "name": "HADYANA RIZKI AULIA", 
+       "role": "HUMAS", 
+       "file": "assets/img/team/HADYANA RIZKI AULIA - HUMAS.png", 
+       "order": 8 
+   } 
+, 
+   { 
+       "name": "HASINATUNNISSA", 
+       "role": "PDD", 
+       "file": "assets/img/team/HASINATUNNISSA - PDD.png", 
+       "order": 9 
+   } 
+, 
+   { 
+       "name": "HENDI HERLINDA", 
+       "role": "HUMAS", 
+       "file": "assets/img/team/HENDI HERLINDA - HUMAS.png", 
+       "order": 8 
+   } 
+, 
+   { 
+       "name": "IHSANUDIN", 
+       "role": "LOGISTIK", 
+       "file": "assets/img/team/IHSANUDIN - LOGISTIK.png", 
+       "order": 10 
+   } 
+, 
+   { 
+       "name": "JANUAR NURDIASAH", 
+       "role": "HUMAS", 
+       "file": "assets/img/team/JANUAR NURDIASAH - HUMAS.png", 
+       "order": 8 
+   } 
+, 
+   { 
+       "name": "NASYA FHILIA NURFALAH", 
+       "role": "SEKRETARIS I", 
+       "file": "assets/img/team/NASYA FHILIA NURFALAH - SEKRETARIS I.png", 
+       "order": 3 
+   } 
+, 
+   { 
+       "name": "NURUL AJIZAH", 
+       "role": "PDD", 
+       "file": "assets/img/team/NURUL AJIZAH - PDD.png", 
+       "order": 9 
+   } 
+, 
+   { 
+       "name": "PARAMITA RAMADINI", 
+       "role": "ACARA", 
+       "file": "assets/img/team/PARAMITA RAMADINI - ACARA.png", 
+       "order": 7 
+   } 
+, 
+   { 
+       "name": "PELA MULYATI", 
+       "role": "BENDAHARA I", 
+       "file": "assets/img/team/PELA MULYATI - BENDAHARA I.png", 
+       "order": 5 
+   } 
+, 
+   { 
+       "name": "RAKA DENAYA ADITAMA", 
+       "role": "KETUA", 
+       "file": "assets/img/team/RAKA DENAYA ADITAMA - KETUA.png", 
+       "order": 1 
+   } 
+, 
+   { 
+       "name": "REGI MAULANA", 
+       "role": "LOGISTIK", 
+       "file": "assets/img/team/REGI MAULANA - LOGISTIK.png", 
+       "order": 10 
+   } 
+, 
+   { 
+       "name": "REPI CAHAYA NUGRAHA", 
+       "role": "LOGISTIK", 
+       "file": "assets/img/team/REPI CAHAYA NUGRAHA - LOGISTIK.png", 
+       "order": 10 
+   } 
+, 
+   { 
+       "name": "REZA RIZKYANSYAH", 
+       "role": "HUMAS", 
+       "file": "assets/img/team/REZA RIZKYANSYAH - HUMAS.png", 
+       "order": 8 
+   } 
+, 
+   { 
+       "name": "RIAN RAMDHANI", 
+       "role": "WAKIL KETUA", 
+       "file": "assets/img/team/RIAN RAMDHANI - WAKIL KETUA.png", 
+       "order": 2 
+   } 
+, 
+   { 
+       "name": "RINA SULISTIANI", 
+       "role": "ACARA", 
+       "file": "assets/img/team/RINA SULISTIANI - ACARA.png", 
+       "order": 7 
+   } 
+, 
+   { 
+       "name": "RIZAL FAUZY", 
+       "role": "HUMAS", 
+       "file": "assets/img/team/RIZAL FAUZY - HUMAS.png", 
+       "order": 8 
+   } 
+, 
+   { 
+       "name": "RIZKI FAJAR PURNAMA", 
+       "role": "LOGISTIK", 
+       "file": "assets/img/team/RIZKI FAJAR PURNAMA - LOGISTIK.png", 
+       "order": 10 
+   } 
+, 
+   { 
+       "name": "ROBBY HILMI HABIBIE", 
+       "role": "ACARA", 
+       "file": "assets/img/team/ROBBY HILMI HABIBIE - ACARA.png", 
+       "order": 7 
+   } 
+, 
+   { 
+       "name": "YUYUS", 
+       "role": "PDD", 
+       "file": "assets/img/team/YUYUS - PDD.png", 
+       "order": 9 
+   } 
+, 
+   { 
+       "name": "ZUL FAHMY SIDIK", 
+       "role": "ACARA", 
+       "file": "assets/img/team/ZUL FAHMY SIDIK - ACARA.png", 
+       "order": 7 
+   } 
+, 
+   { 
+       "name": "BAYU SEPTIANA AZIZ", 
+       "role": "HUMAS", 
+       "file": "assets/img/team/BAYU SEPTIANA AZIZ - HUMAS.jpg", 
+       "order": 8 
+   } 
+] 
