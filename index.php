@@ -413,7 +413,7 @@
       </div>
       <div class="container">
         <div class="copyright">
-          <span>Copyright</span> <strong class="px-1 sitename">KKN UNIGAL 2025 Desa Gegempalan</strong>
+          <span>Copyright</span> <strong class="px-1 sitename">KKN UNIGAL GEGEMPALAN 2025</strong>
         </div>
         <!-- <div class="credits"> -->
         <!-- All the links in the footer should remain intact. -->
