@@ -45,7 +45,7 @@
 }
 
 .dark-background {
-  --background-color: #34075a;
+  --background-color: #59216c;
   --default-color: #ffffff;
   --heading-color: #ffffff;
   --surface-color: #4a4056;
@@ -175,7 +175,7 @@ h6 {
 /* Global Header on Scroll
 ------------------------------*/
 .scrolled .header {
-  --background-color:#340648;
+  --background-color:#3a0247;
 }
 
 /*--------------------------------------------------------------
@@ -625,7 +625,7 @@ section,
 .section {
   color: var(--default-color);
   background-color: var(--background-color);
-  padding: 60px 0;
+  padding: 40px 0;
   scroll-margin-top: 77px;
   overflow: clip;
 }
@@ -634,7 +634,7 @@ section,
 # Global Section Titles
 --------------------------------------------------------------*/
 .section-title {
-  padding-bottom: 60px;
+  padding-bottom: 20px;
   position: relative;
 }
 
